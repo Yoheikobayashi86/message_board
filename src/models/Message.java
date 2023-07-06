@@ -1,4 +1,5 @@
 package models;
+
 import java.sql.Timestamp;
 
 import javax.persistence.Column;
